@@ -1,1 +1,1 @@
-Enkripsi dan dekripsi dengan cara RSA menggunakan bahasa python dan modul pycryptodome. Public dan private key yang digunakan berbentuk auto generate. 
+Enkripsi dan dekripsi dengan cara RSA menggunakan bahasa python dan modul pycryptodome. Public dan private key yang digunakan berbentuk auto generate. Proses yang dilakukan adalah dengan open dan read dari file plaintext.txt kemudian di enkripsi secara otomatis yang juga membentuk file txt baru dengan nama encryption.txt
